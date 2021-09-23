@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T03:12:07.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="14.9.7" etag="WcYkkzL-5k6qMoL0ZGSe" type="github"><diagram id="Csr34IU09_-NHf3CM74s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-23T02:39:40.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="fDFuYPv7TMEOZASWjXb-" version="15.2.7" type="github">
+  <diagram id="Csr34IU09_-NHf3CM74s" name="剧集列表">
+    <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="62n-EZunI8MKve4FSGAH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-2" target="62n-EZunI8MKve4FSGAH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-2" value="剧集列表(service-season)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-21" target="62n-EZunI8MKve4FSGAH-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="149.66666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-21" value="SeriesController.query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-25" target="62n-EZunI8MKve4FSGAH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-25" value="t_series(rrmj2)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="110" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-27" value="where id and like name,en_name,ALIAS_NAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-69.99999999999977" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-32" value="http://test1-friday-api.rr.tv/marvel/series/query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="10" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-33" value="/series/**" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-34" value="input: id,name,page,rows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
