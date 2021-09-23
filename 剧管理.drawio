@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T02:39:40.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="fDFuYPv7TMEOZASWjXb-" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T03:00:11.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="0t09Mrn-APee7tqYTEhH" version="15.2.7" type="github">
   <diagram id="Csr34IU09_-NHf3CM74s" name="剧集列表">
     <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="62n-EZunI8MKve4FSGAH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-2" target="62n-EZunI8MKve4FSGAH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-2" target="62n-EZunI8MKve4FSGAH-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62n-EZunI8MKve4FSGAH-2" value="剧集列表(service-season)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,8 +46,37 @@
         <mxCell id="62n-EZunI8MKve4FSGAH-33" value="/series/**" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="10" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-34" target="62n-EZunI8MKve4FSGAH-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="70" />
+              <mxPoint x="-420" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="62n-EZunI8MKve4FSGAH-34" value="input: id,name,page,rows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-40" target="62n-EZunI8MKve4FSGAH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-40" value="新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-41" target="62n-EZunI8MKve4FSGAH-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-41" value="http://test1-friday-api.rr.tv/marvel/series/save" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="230" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-43" target="62n-EZunI8MKve4FSGAH-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-43" value="/series/**" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-45" value="input: enName,languate,type..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
