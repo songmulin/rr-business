@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T07:06:32.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="KiuXuBmNe7l2oV4gpe5Z" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T07:24:05.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="O_ER6sbCdfXKMIXt8FdO" version="15.2.7" type="github" pages="2">
   <diagram id="Csr34IU09_-NHf3CM74s" name="剧集列表">
     <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,6 +214,20 @@
         <mxCell id="62n-EZunI8MKve4FSGAH-89" value="t_tagged_entity(rrmj2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="690" width="82" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="zj1xte1gOo1hs1mLrbRV-1" value="推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zj1xte1gOo1hs1mLrbRV-2" value="编辑剧照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RF3psgAw9WswlngdWvDq" name="Page-2">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Jb0KIdyuy2g6mQiWzoPX-0" />
+        <mxCell id="Jb0KIdyuy2g6mQiWzoPX-1" parent="Jb0KIdyuy2g6mQiWzoPX-0" />
       </root>
     </mxGraphModel>
   </diagram>
