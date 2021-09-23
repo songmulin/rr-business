@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T08:27:21.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="IlpIZyGJdyJQuzNdA_dp" version="15.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-23T11:28:47.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uS0kHemzijsVFvKj9VjV" version="15.2.7" type="github" pages="2">
   <diagram id="Csr34IU09_-NHf3CM74s" name="剧集列表">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,6 +360,30 @@
         </mxCell>
         <mxCell id="gBRp22FuxVJoFFB4x-j1-3" value="List&amp;lt;SeasonDetailDto&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Jb0KIdyuy2g6mQiWzoPX-1">
           <mxGeometry x="30" y="319" width="130" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jb0KIdyuy2g6mQiWzoPX-1" source="9Z2WgyAfLISL372Q9qKz-0" target="9Z2WgyAfLISL372Q9qKz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-0" value="管理外链平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Jb0KIdyuy2g6mQiWzoPX-1">
+          <mxGeometry x="-720" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jb0KIdyuy2g6mQiWzoPX-1" source="9Z2WgyAfLISL372Q9qKz-1" target="9Z2WgyAfLISL372Q9qKz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-1" value="http://test1-friday-api.rr.tv/thirdSite/list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Jb0KIdyuy2g6mQiWzoPX-1">
+          <mxGeometry x="-520" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jb0KIdyuy2g6mQiWzoPX-1" source="9Z2WgyAfLISL372Q9qKz-3" target="9Z2WgyAfLISL372Q9qKz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-3" value="/thirdSite/**" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Jb0KIdyuy2g6mQiWzoPX-1">
+          <mxGeometry x="-280" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-5" value="input:&lt;br&gt;page,rows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Jb0KIdyuy2g6mQiWzoPX-1">
+          <mxGeometry x="-40" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z2WgyAfLISL372Q9qKz-7" value="ThirdSiteController.list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Jb0KIdyuy2g6mQiWzoPX-1">
+          <mxGeometry x="-740" y="540" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
