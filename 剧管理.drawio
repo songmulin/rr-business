@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T03:00:11.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="0t09Mrn-APee7tqYTEhH" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T04:00:29.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="jtnqSDHkDluHsCfAfk4h" version="15.2.7" type="github">
   <diagram id="Csr34IU09_-NHf3CM74s" name="剧集列表">
     <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,22 +10,21 @@
         <mxCell id="62n-EZunI8MKve4FSGAH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-2" target="62n-EZunI8MKve4FSGAH-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="62n-EZunI8MKve4FSGAH-2" value="剧集列表(service-season)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="62n-EZunI8MKve4FSGAH-2" value="剧集列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="10" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62n-EZunI8MKve4FSGAH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-21" target="62n-EZunI8MKve4FSGAH-25">
+        <mxCell id="62n-EZunI8MKve4FSGAH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-21" target="62n-EZunI8MKve4FSGAH-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-310" y="149.66666666666674" as="targetPoint" />
+            <mxPoint x="-289.9999999999998" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="62n-EZunI8MKve4FSGAH-21" value="SeriesController.query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62n-EZunI8MKve4FSGAH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-25" target="62n-EZunI8MKve4FSGAH-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="62n-EZunI8MKve4FSGAH-25" value="t_series(rrmj2)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="110" width="100" height="80" as="geometry" />
+        <mxCell id="62n-EZunI8MKve4FSGAH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="62n-EZunI8MKve4FSGAH-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-189.99999999999977" y="150" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="62n-EZunI8MKve4FSGAH-27" value="where id and like name,en_name,ALIAS_NAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="120" width="170" height="60" as="geometry" />
@@ -77,6 +76,39 @@
         </mxCell>
         <mxCell id="62n-EZunI8MKve4FSGAH-45" value="input: enName,languate,type..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="230" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-48" value="service-season" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-49" target="62n-EZunI8MKve4FSGAH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-49" value="SeriesController.save" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-50" target="62n-EZunI8MKve4FSGAH-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-50" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="340" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62n-EZunI8MKve4FSGAH-54" target="62n-EZunI8MKve4FSGAH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-54" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#527FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="111" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-56" value="t_series(rrmj2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-212" y="91" width="82" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-57" value="SeriesService::TSF_Dto_Series_Id_{id}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="320" width="204" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-58" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#527FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="322" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="62n-EZunI8MKve4FSGAH-61" value="t_series(rrmj2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="82" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
