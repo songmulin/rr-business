@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T06:59:37.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="B88z2TF7S7954HwWeljV" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T07:20:25.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="x6WTFccnBtSbd0kHhJ6R" version="15.3.3" type="github">
   <diagram id="PBQSmOYhO7PoBkgoyPXK" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,18 +8,22 @@
           <mxGeometry x="50" y="230" width="1040" height="690" as="geometry" />
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-2" value="rrtv-job" style="swimlane;startSize=20;strokeWidth=2;perimeterSpacing=3;" vertex="1" parent="inluxw40n091W_jIXqgZ-1">
-          <mxGeometry y="20" width="290" height="670" as="geometry" />
+          <mxGeometry y="20" width="290" height="670" as="geometry">
+            <mxRectangle y="20" width="30" height="670" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-5" value="CopyrightRefresh&lt;br&gt;CopyrightJobHandler" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-2">
           <mxGeometry x="70" y="70" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="inluxw40n091W_jIXqgZ-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-1" source="inluxw40n091W_jIXqgZ-5" target="inluxw40n091W_jIXqgZ-12">
+        <mxCell id="inluxw40n091W_jIXqgZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-1" source="inluxw40n091W_jIXqgZ-5" target="inluxw40n091W_jIXqgZ-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-3" value="service-cms-copyright" style="swimlane;startSize=20;strokeWidth=2;perimeterSpacing=3;" vertex="1" parent="inluxw40n091W_jIXqgZ-1">
-          <mxGeometry x="290" y="20" width="750" height="670" as="geometry" />
+          <mxGeometry x="290" y="20" width="750" height="670" as="geometry">
+            <mxRectangle x="290" y="20" width="30" height="670" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" edge="1" parent="inluxw40n091W_jIXqgZ-3">
           <mxGeometry relative="1" as="geometry">
@@ -33,12 +37,6 @@
         <mxCell id="inluxw40n091W_jIXqgZ-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;hachureGap=4;pointerEvents=0;strokeWidth=2;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
           <mxGeometry x="330" y="62.75" width="60" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="inluxw40n091W_jIXqgZ-24" value="" style="endArrow=none;html=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="130" as="sourcePoint" />
-            <mxPoint x="770" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-39" target="inluxw40n091W_jIXqgZ-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -51,6 +49,11 @@
         <mxCell id="inluxw40n091W_jIXqgZ-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-49" target="inluxw40n091W_jIXqgZ-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-99" value="baidu.aladdin.group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="inluxw40n091W_jIXqgZ-53">
+          <mxGeometry x="-0.4746" y="-5" relative="1" as="geometry">
+            <mxPoint x="7" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-49" value="bff-baidu-tool" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
           <mxGeometry x="210" y="460" width="120" height="50" as="geometry" />
         </mxCell>
@@ -59,6 +62,11 @@
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.128;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-51" target="inluxw40n091W_jIXqgZ-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-98" value="drama.copyright" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="inluxw40n091W_jIXqgZ-55">
+          <mxGeometry x="-0.2302" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-51" value="service-content-drama" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
           <mxGeometry x="30" y="460" width="120" height="50" as="geometry" />
@@ -74,11 +82,23 @@
         <mxCell id="inluxw40n091W_jIXqgZ-82" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;hachureGap=4;pointerEvents=0;strokeWidth=2;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
           <mxGeometry x="110" y="295.5" width="90" height="75.6" as="geometry" />
         </mxCell>
-        <mxCell id="inluxw40n091W_jIXqgZ-83" value="CmsCopyrightStaticCacheHelper::season-copyright-dto::{seasonId}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
-          <mxGeometry x="30" y="265.5" width="240" height="30" as="geometry" />
+        <mxCell id="inluxw40n091W_jIXqgZ-83" value="key:&amp;nbsp; CmsCopyrightStaticCacheHelper::season-copyright-dto::{seasonId}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="30" y="260" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-85" value="topic&lt;br&gt;service.cms.copyright.syn.copyright" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="360" y="265.5" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-96" value="" style="endArrow=none;html=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;entryX=0.548;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" target="inluxw40n091W_jIXqgZ-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="710" as="sourcePoint" />
+            <mxPoint x="120" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-101" value="copyrightFlag&amp;nbsp; true?" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="225" y="560" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-28" value="select * from t_cms_copyright where DELETED=0 and IS_HISTORY = 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="460" width="40" height="50" as="geometry" />
+          <mxGeometry x="970" y="70" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-16">
           <mxGeometry relative="1" as="geometry">
@@ -86,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-43" value="seasonId,copyrightFlag,seasonFeeMode,feeMode" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="585" width="40" height="50" as="geometry" />
+          <mxGeometry x="970" y="150" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="inluxw40n091W_jIXqgZ-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-52">
           <mxGeometry relative="1" as="geometry">
@@ -102,6 +122,21 @@
         <mxCell id="inluxw40n091W_jIXqgZ-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-97" value="update ES set copyrighted where docId=seasonId" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="380" y="960" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="810" as="targetPoint" />
+            <mxPoint x="610" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-24" value="" style="endArrow=none;html=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-16" target="inluxw40n091W_jIXqgZ-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="380" as="sourcePoint" />
+            <mxPoint x="1110" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
