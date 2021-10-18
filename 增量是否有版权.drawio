@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T06:17:20.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.3.3" etag="gJi60tjLMEFOYhoWsrlw" type="github"><diagram id="PBQSmOYhO7PoBkgoyPXK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-18T06:59:37.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="B88z2TF7S7954HwWeljV" version="15.3.3" type="github">
+  <diagram id="PBQSmOYhO7PoBkgoyPXK" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="inluxw40n091W_jIXqgZ-1" value="增量是否有版权kafka定时任务" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="1040" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-2" value="rrtv-job" style="swimlane;startSize=20;strokeWidth=2;perimeterSpacing=3;" vertex="1" parent="inluxw40n091W_jIXqgZ-1">
+          <mxGeometry y="20" width="290" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-5" value="CopyrightRefresh&lt;br&gt;CopyrightJobHandler" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-2">
+          <mxGeometry x="70" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-1" source="inluxw40n091W_jIXqgZ-5" target="inluxw40n091W_jIXqgZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-3" value="service-cms-copyright" style="swimlane;startSize=20;strokeWidth=2;perimeterSpacing=3;" vertex="1" parent="inluxw40n091W_jIXqgZ-1">
+          <mxGeometry x="290" y="20" width="750" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;" edge="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="95" as="sourcePoint" />
+            <mxPoint x="330" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-12" value="CmsCopyrightController#&lt;br&gt;refreshSeasonCopyrightJob" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="60" y="70" width="155" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;hachureGap=4;pointerEvents=0;strokeWidth=2;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="330" y="62.75" width="60" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-24" value="" style="endArrow=none;html=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="130" as="sourcePoint" />
+            <mxPoint x="770" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-39" target="inluxw40n091W_jIXqgZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-39" value="CopyrightEvent" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="310" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-45" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;hachureGap=4;pointerEvents=0;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="321" y="295.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-49" target="inluxw40n091W_jIXqgZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-49" value="bff-baidu-tool" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="210" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-50" value="bff-friday-content" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="390" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.128;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-51" target="inluxw40n091W_jIXqgZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-51" value="service-content-drama" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="30" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-52" value="service-season" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeWidth=2;perimeterSpacing=3;direction=west;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="560" y="460" width="118" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="inluxw40n091W_jIXqgZ-3" source="inluxw40n091W_jIXqgZ-50" target="inluxw40n091W_jIXqgZ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-82" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;hachureGap=4;pointerEvents=0;strokeWidth=2;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="110" y="295.5" width="90" height="75.6" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-83" value="CmsCopyrightStaticCacheHelper::season-copyright-dto::{seasonId}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="inluxw40n091W_jIXqgZ-3">
+          <mxGeometry x="30" y="265.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-28" value="select * from t_cms_copyright where DELETED=0 and IS_HISTORY = 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="460" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-43" value="seasonId,copyrightFlag,seasonFeeMode,feeMode" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="585" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-42" value="" style="endArrow=none;html=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-39" target="inluxw40n091W_jIXqgZ-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="530" as="sourcePoint" />
+            <mxPoint x="1100" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inluxw40n091W_jIXqgZ-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="inluxw40n091W_jIXqgZ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
