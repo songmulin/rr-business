@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:51:52.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jfm3BH1ILOpHv-E4uP3W" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:52:56.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8ekEBhQyy_nQdQYj_tGL" version="20.0.4" type="github">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,13 +67,13 @@
         <mxCell id="7lHV2M7iKRtvk8pRHQug-32" value="系统消息&lt;br&gt;system message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7lHV2M7iKRtvk8pRHQug-33" value="季相关&lt;br&gt;season" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-33" value="vip相关&lt;br&gt;VIP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7lHV2M7iKRtvk8pRHQug-34" value="屏蔽词&lt;br&gt;shield word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-34" value="钱包&lt;br&gt;wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7lHV2M7iKRtvk8pRHQug-35" value="系统配置&lt;br&gt;system config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-35" value="用户组&lt;br&gt;user group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
