@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T10:12:43.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zBBkV33-JGy0hBEpNVyr" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-04T10:15:00.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sBm-SA6HT6QGUChE5oCE" version="20.0.4" type="github" pages="2">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-1" value="account&lt;br&gt;用户账户信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-2" value="审计日志&lt;br&gt;audit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-3" value="剧集风险&lt;br&gt;drama risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-4" value="权限&lt;br&gt;permission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-5" value="七牛&lt;br&gt;qiniu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-6" value="角色相关&lt;br&gt;role" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-7" value="ugc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
