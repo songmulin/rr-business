@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:39:52.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TPrSHbn_V9ck0AiTrNuR" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:51:52.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jfm3BH1ILOpHv-E4uP3W" version="20.0.4" type="github">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="7lHV2M7iKRtvk8pRHQug-17" value="首页相关&lt;br&gt;homepage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7lHV2M7iKRtvk8pRHQug-18" value="热门推荐&lt;br&gt;hot recommend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-18" value="推荐相关&lt;br&gt;recommend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7lHV2M7iKRtvk8pRHQug-19" value="元数据版本&lt;br&gt;metadata version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,8 +49,32 @@
         <mxCell id="7lHV2M7iKRtvk8pRHQug-26" value="热门推荐&lt;br&gt;hot recommend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7lHV2M7iKRtvk8pRHQug-27" value="元数据版本&lt;br&gt;metadata version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-27" value="运营位置&lt;br&gt;operation position" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-28" value="搜索相关&lt;br&gt;search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-29" value="季相关&lt;br&gt;season" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-30" value="屏蔽词&lt;br&gt;shield word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-31" value="系统配置&lt;br&gt;system config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-32" value="系统消息&lt;br&gt;system message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-33" value="季相关&lt;br&gt;season" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-34" value="屏蔽词&lt;br&gt;shield word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7lHV2M7iKRtvk8pRHQug-35" value="系统配置&lt;br&gt;system config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
