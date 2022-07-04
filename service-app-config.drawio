@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T10:43:59.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eDHF5GDwKIWWn_a_ebeI" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-04T10:50:48.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="W6V9_9MMlgHtns_N3pZJ" version="20.0.4" type="github" pages="5">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,38 @@
         <mxCell id="1" parent="0" />
         <mxCell id="PaC7LRJQd5ANootp-HEP-1" value="用户登录相关&lt;br&gt;auth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JYyiwltIVwDLPXMM05L9" name="service-user-behavior">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rm563p06CM2WyxqhSZf8-1" value="弹幕&lt;br&gt;danmu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm563p06CM2WyxqhSZf8-2" value="用户收藏&lt;br&gt;favorite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm563p06CM2WyxqhSZf8-3" value="用户关注&lt;br&gt;follow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm563p06CM2WyxqhSZf8-4" value="用户评分&lt;br&gt;grade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm563p06CM2WyxqhSZf8-5" value="用户喜欢&lt;br&gt;like" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm563p06CM2WyxqhSZf8-6" value="我都动态&lt;br&gt;my active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm563p06CM2WyxqhSZf8-7" value="用户隐私设置&lt;br&gt;setting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm563p06CM2WyxqhSZf8-8" value="用户分享&lt;br&gt;share" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
