@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T10:27:46.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JuJrUhBNflvmHlWliKrI" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-04T10:31:04.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qfsU28WMnHeG1N8vszJ8" version="20.0.4" type="github" pages="4">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wOLJ5TgfEW2m5aJWImBs-1" value="account&lt;br&gt;用户账户信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wOLJ5TgfEW2m5aJWImBs-1" value="用户账户信息&lt;br&gt;account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wOLJ5TgfEW2m5aJWImBs-2" value="审计日志&lt;br&gt;audit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -109,6 +109,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mujDD1FUqCaYaZEeJ1EA" name="service-permission-tag">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B4Stews2x9Zr1QBkUFF8-1" value="条件相关&lt;br&gt;condition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4Stews2x9Zr1QBkUFF8-2" value="标签相关&lt;br&gt;tag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4Stews2x9Zr1QBkUFF8-3" value="用户设备&lt;br&gt;user device" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1o4nObWFvPg2PIXImh_L" name="Page-4">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
