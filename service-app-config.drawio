@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T10:53:52.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zS-QRrcvogUnLt80qFKs" version="20.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-04T10:57:09.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UeAGWsiQxf0_a0p5LfFj" version="20.0.4" type="github" pages="8">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,29 @@
         <mxCell id="1" parent="0" />
         <mxCell id="JHsJyxUny7WENWxsRPZd-3" value="历史播放记录&lt;br&gt;history" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cD0hJsykHtpu7NrJzMpb" name="service-user-info">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-1" value="账号注销&lt;br&gt;cancel account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-2" value="用户频道&lt;br&gt;category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-3" value="up主相关&lt;br&gt;up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-4" value="vip相关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-5" value="用户信息相关&lt;br&gt;user info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
