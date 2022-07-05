@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T02:20:31.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Nq3cw5Fjdgr_2WnslB_4" version="20.0.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-05T02:21:00.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AFgFPhh4OyI_RUks9pHd" version="20.0.4" type="github" pages="12">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dkgRyuUma9WjC0vwxP1T" name="All">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,9 +388,6 @@
         </mxCell>
         <mxCell id="fBxNSZV0v9F6e7H5cGnt-3" value="用户设备&lt;br&gt;user device" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D8hwsoti-k8jPG2t4Ttm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="peAPfBXuGTVjIgLNH0r5-1" target="GqEZ-geApBtFNFZBbxUc-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="peAPfBXuGTVjIgLNH0r5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="710" width="330" height="160" as="geometry" />
