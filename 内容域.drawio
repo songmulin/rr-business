@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:22:56.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3PGXlIS-G3OMnPqWVAdQ" version="20.0.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:37:37.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="D1NvQfhNR7R3RrtBcIll" version="20.0.4" type="github" pages="15">
   <diagram id="xrCx3Cr_O7umWqKfhNKS" name="rrtv-comment">
     <mxGraphModel dx="1635" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,6 +283,48 @@
         </mxCell>
         <mxCell id="kSufvXgX84noeAtrLiNY-3" value="版权相关&lt;br&gt;copyright" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-4" value="市场编码/客户端类型&lt;br&gt;market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-5" value="剧集详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-6" value="标签相关&lt;br&gt;lab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-7" value="抢先看&lt;br&gt;first look" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-9" value="系列信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-10" value="合集推荐&lt;br&gt;album recommend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-11" value="权限相关&lt;br&gt;permission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-12" value="榜单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-13" value="角标&lt;br&gt;corner mark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-14" value="渠道相关&lt;br&gt;channel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-15" value="合集推荐&lt;br&gt;album recommend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-16" value="专题&lt;br&gt;subject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-17" value="标签&lt;br&gt;tag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSufvXgX84noeAtrLiNY-18" value="视频&lt;br&gt;video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
