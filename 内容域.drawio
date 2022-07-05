@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T10:17:11.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IObPpn3zRGB59cbt_TUZ" version="20.0.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-07-05T10:31:16.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VStc0TuDTUJtMQEv95LG" version="20.0.4" type="github" pages="16">
   <diagram id="xrCx3Cr_O7umWqKfhNKS" name="rrtv-comment">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ge8ytrSQwpUr9b4Mi41c" name="All">
-    <mxGraphModel dx="3552" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2644" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,15 +544,6 @@
         <mxCell id="9a3-sA4_1CwrF8Z8nkfv-22" value="视频相关&lt;br&gt;video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9a3-sA4_1CwrF8Z8nkfv-23" value="剧集关联预告片&lt;br&gt;preview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9a3-sA4_1CwrF8Z8nkfv-24" value="视频推荐&lt;br&gt;promotion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9a3-sA4_1CwrF8Z8nkfv-25" value="投稿&lt;br&gt;video contribute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="651" y="1280" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="x9cETziLQnVygRgOOpPL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="886" y="1010" width="644" height="360" as="geometry" />
         </mxCell>
@@ -569,19 +560,13 @@
           <mxGeometry x="1334" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NOyiEV3oLr2cwHFFnXA6-4" value="剧集播放相关&lt;br&gt;play info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1133" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NOyiEV3oLr2cwHFFnXA6-5" value="季相关&lt;br&gt;season" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NOyiEV3oLr2cwHFFnXA6-6" value="剧&lt;br&gt;drama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NOyiEV3oLr2cwHFFnXA6-7" value="剧集&lt;br&gt;episode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1334" y="1180" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NOyiEV3oLr2cwHFFnXA6-8" value="影视&lt;br&gt;movie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1338" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSgcCK8iCD3IFs7-Kh7P-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="98" y="1394" width="782" height="526" as="geometry" />
@@ -593,7 +578,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-1" value="合集&lt;br&gt;album" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="126" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-2" value="片单&lt;br&gt;community album" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1450" width="120" height="60" as="geometry" />
@@ -605,7 +590,7 @@
           <mxGeometry x="730" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-5" value="剧集详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="1550" width="120" height="60" as="geometry" />
+          <mxGeometry x="124" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-6" value="标签相关&lt;br&gt;lab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="1550" width="120" height="60" as="geometry" />
@@ -614,7 +599,7 @@
           <mxGeometry x="529" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-8" value="系列信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="126" y="1651" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="1651" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-9" value="合集推荐&lt;br&gt;album recommend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1651" width="120" height="60" as="geometry" />
@@ -629,7 +614,7 @@
           <mxGeometry x="730" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-13" value="渠道相关&lt;br&gt;channel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="126" y="1752" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="1752" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-14" value="合集推荐&lt;br&gt;album recommend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1752" width="120" height="60" as="geometry" />
@@ -641,7 +626,7 @@
           <mxGeometry x="730" y="1752" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTOWIBd8uTr5tSRX30GJ-17" value="视频&lt;br&gt;video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="124" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
