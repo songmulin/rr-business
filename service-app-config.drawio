@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T02:48:18.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nV0wWOuUfBosEiSceemd" version="20.0.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-05T02:53:12.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6yzm6TCq56KZS6SSAH9h" version="20.0.4" type="github" pages="12">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1635" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dkgRyuUma9WjC0vwxP1T" name="All">
-    <mxGraphModel dx="2336" dy="2318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1924" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,7 +410,7 @@
         <mxCell id="2Gdk7GWa4HfQtMgpuCGV-5" value="用户喜欢&lt;br&gt;like" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Gdk7GWa4HfQtMgpuCGV-6" value="我都动态&lt;br&gt;my active" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2Gdk7GWa4HfQtMgpuCGV-6" value="我的动态&lt;br&gt;my active" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1064" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Gdk7GWa4HfQtMgpuCGV-7" value="用户隐私设置&lt;br&gt;setting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
