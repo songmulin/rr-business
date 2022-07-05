@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T02:21:00.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AFgFPhh4OyI_RUks9pHd" version="20.0.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-05T02:23:12.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hKka02gchdBCwxV0N0I_" version="20.0.4" type="github" pages="12">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,12 +262,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dkgRyuUma9WjC0vwxP1T" name="All">
-    <mxGraphModel dx="1138" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2188" dy="2341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HMNMx1dgdO1o2vx1Lz6W-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="10" y="30" width="1620" height="1620" as="geometry" />
+          <mxGeometry x="10" y="-10" width="1660" height="1660" as="geometry" />
         </mxCell>
         <mxCell id="HMNMx1dgdO1o2vx1Lz6W-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="70" width="750" height="630" as="geometry" />
@@ -508,6 +508,9 @@
         </mxCell>
         <mxCell id="SqzILXlfdXkCwHgl9L5U-2" value="用户屏蔽词&lt;br&gt;shield word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="1405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SqzILXlfdXkCwHgl9L5U-3" value="用户域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
