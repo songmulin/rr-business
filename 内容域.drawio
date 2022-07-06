@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T02:45:14.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Qaem-pjukBBQ2GDu4kTC" version="20.0.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-07-06T02:47:52.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yVlGJzYC_8eZcfw4azAv" version="20.0.4" type="github" pages="17">
   <diagram id="xrCx3Cr_O7umWqKfhNKS" name="rrtv-comment">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ge8ytrSQwpUr9b4Mi41c" name="All">
-    <mxGraphModel dx="2751" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3163" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,6 +641,24 @@
         </mxCell>
         <mxCell id="Ema2ibNazrz4wjS2qJi2-2" value="弹幕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-xQxrzzvASj-puMpUm-1" value="任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-xQxrzzvASj-puMpUm-2" value="问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-xQxrzzvASj-puMpUm-3" value="评论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-xQxrzzvASj-puMpUm-4" value="弹幕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-xQxrzzvASj-puMpUm-5" value="任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-xQxrzzvASj-puMpUm-6" value="问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="270" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
