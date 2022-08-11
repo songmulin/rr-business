@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:13:50.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Y3T1046imo0qfZHucBNj" version="20.0.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-08-11T03:19:57.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tfuHa6Jp3OuPeSakQRZl" version="20.2.3" type="github" pages="17">
   <diagram id="xrCx3Cr_O7umWqKfhNKS" name="rrtv-comment">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ge8ytrSQwpUr9b4Mi41c" name="All">
-    <mxGraphModel dx="2751" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,7 +545,7 @@
           <mxGeometry x="125" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9cETziLQnVygRgOOpPL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="886" y="1010" width="644" height="360" as="geometry" />
+          <mxGeometry x="886" y="1010" width="644" height="430" as="geometry" />
         </mxCell>
         <mxCell id="x9cETziLQnVygRgOOpPL-2" value="service-content-drama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1085" y="1020" width="270" height="10" as="geometry" />
@@ -690,6 +690,21 @@
         </mxCell>
         <mxCell id="iHZruvN8LfeasSgFssOY-27" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;service-cms-statistics&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="638" y="1375" width="92" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_y_cBWfUSwtzVadRHt-1" value="评论权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_y_cBWfUSwtzVadRHt-2" value="剧集详情权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_y_cBWfUSwtzVadRHt-3" value="剧集分享权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_y_cBWfUSwtzVadRHt-4" value="剧集清晰度权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="929" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e5_y_cBWfUSwtzVadRHt-5" value="剧集标识管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
