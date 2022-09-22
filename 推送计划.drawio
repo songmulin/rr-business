@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T09:59:47.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="BSthHee4sT_EdG_iJZTH" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-22T10:03:27.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nwKPRUfo8wqRf4EXT9iQ" version="20.2.7" type="github" pages="2">
   <diagram id="Nt-qGN5W3i-qoPwv_6xT" name="第 1 页">
     <mxGraphModel dx="1635" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hO9k1SS9SRoio_GHONLS-42" value="人群圈选规则立即执行" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+        <mxCell id="hO9k1SS9SRoio_GHONLS-42" value="创建计划（人群圈选规则）" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="178" y="140" width="1070" height="620" as="geometry" />
         </mxCell>
         <mxCell id="hO9k1SS9SRoio_GHONLS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hO9k1SS9SRoio_GHONLS-42" source="hO9k1SS9SRoio_GHONLS-57" target="hO9k1SS9SRoio_GHONLS-48">
@@ -36,13 +36,13 @@
         <mxCell id="hO9k1SS9SRoio_GHONLS-60" value="生成人群包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hO9k1SS9SRoio_GHONLS-43">
           <mxGeometry x="460" y="230" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hO9k1SS9SRoio_GHONLS-67" value="创建计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hO9k1SS9SRoio_GHONLS-43">
+        <mxCell id="hO9k1SS9SRoio_GHONLS-67" value="生成计划数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hO9k1SS9SRoio_GHONLS-43">
           <mxGeometry x="55" y="280" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hO9k1SS9SRoio_GHONLS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="hO9k1SS9SRoio_GHONLS-43" source="hO9k1SS9SRoio_GHONLS-90" target="hO9k1SS9SRoio_GHONLS-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hO9k1SS9SRoio_GHONLS-90" value="规则id，taskId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hO9k1SS9SRoio_GHONLS-43">
+        <mxCell id="hO9k1SS9SRoio_GHONLS-90" value="规则id，planId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hO9k1SS9SRoio_GHONLS-43">
           <mxGeometry x="260" y="400" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hO9k1SS9SRoio_GHONLS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hO9k1SS9SRoio_GHONLS-43" source="-V5R5rY_J3IfyCskAqr6-1" target="hO9k1SS9SRoio_GHONLS-90">
