@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T09:37:17.451Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-oKqS37n6PhhGi2rQPBY" version="20.2.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-03-06T07:01:59.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MlWsAu0CmQasmjAZUyhk" version="20.5.3" type="github" pages="12">
   <diagram id="znaSUj6gl3TPgdOyfgRT" name="service-app-config">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,72 +197,72 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rLxP7gDzkaszEf8AOlkn" name="service-user-history">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JHsJyxUny7WENWxsRPZd-3" value="历史播放记录&lt;br&gt;history" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JHsJyxUny7WENWxsRPZd-3" value="历史播放记录&lt;br&gt;history" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="cD0hJsykHtpu7NrJzMpb" name="service-user-info">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-HLCdCyEh7fWATn1-tRo-1" value="账号注销&lt;br&gt;cancel account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-1" value="账号注销&lt;br&gt;cancel account" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-HLCdCyEh7fWATn1-tRo-2" value="用户频道&lt;br&gt;category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-2" value="用户频道&lt;br&gt;category" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-HLCdCyEh7fWATn1-tRo-3" value="up主相关&lt;br&gt;up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-3" value="up主相关&lt;br&gt;up" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="449" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-HLCdCyEh7fWATn1-tRo-4" value="vip相关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-4" value="vip相关" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-HLCdCyEh7fWATn1-tRo-5" value="用户信息相关&lt;br&gt;user info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HLCdCyEh7fWATn1-tRo-5" value="用户信息相关&lt;br&gt;user info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N2xau85VEfjWhl6pDhvB-2" value="字幕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N2xau85VEfjWhl6pDhvB-2" value="字幕" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="mI2dMUSZyK3M9Gg4sY2o" name="service-user-resource">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3Q1Cf4Dk3gcmiGJytLZ2-1" value="用户成长值&lt;br&gt;growth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Q1Cf4Dk3gcmiGJytLZ2-1" value="用户成长值&lt;br&gt;growth" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Q1Cf4Dk3gcmiGJytLZ2-2" value="用户勋章/银币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Q1Cf4Dk3gcmiGJytLZ2-2" value="用户勋章/银币" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="0bW0cRB_4FBHr2CUl9iq" name="service-user-shield">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d-GZBmVKdIVYSZbxeJwS-1" value="高危用户&lt;br&gt;high risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d-GZBmVKdIVYSZbxeJwS-1" value="高危用户&lt;br&gt;high risk" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d-GZBmVKdIVYSZbxeJwS-2" value="用户屏蔽词&lt;br&gt;shield word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d-GZBmVKdIVYSZbxeJwS-2" value="用户屏蔽词&lt;br&gt;shield word" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dkgRyuUma9WjC0vwxP1T" name="All">
-    <mxGraphModel dx="1085" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
